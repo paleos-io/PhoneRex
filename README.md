@@ -1,2 +1,7 @@
 # PhoneRex
-Hardened dialer by PALEOS.IO. Mitigates SS7 and Stingrays, GPU Side Channel attacks, blocks screenshots and overlays by default defending against tapjacking and pixnapping, zero telemetry, offline.
+
+Phone Rex is a quiet, security-first phone app for people who want to make calls without turning their address book, call habits, or attention into somebody else’s product. Set it as your default Phone app for a focused dialpad, contacts, favorites, call history, multi-SIM calling, and a clear in-call screen. It works locally, with no account, ads, tracking, analytics, or INTERNET permission so the phone experience remains useful when the network is not.
+
+On Android 10 and later, Phone Rex can request the system’s Caller ID & spam role. Its local rules can block exact numbers, patterns, hidden callers, or callers outside your contacts without uploading a number to a cloud reputation service. When a carrier provides caller-number verification, Phone Rex shows that status on supported Android versions. This is caller intelligence based on contacts and carrier signals you already have, not a mystery data broker. No remote caller-name database, silent synchronization, or telemetry trail.
+
+Phone Rex protects sensitive app surfaces with secure-window controls that block screenshots and non-secure displays; on Android 12 and later, its overlay-defense setting can hide non-system overlays. The dialpad also chooses Android’s software rendering path to reduce that screen’s GPU exposure. Those are meaningful app-layer safeguards, it gives you a calmer, locally controlled dialer with fewer data exits and fewer opportunities for ordinary app-layer capture.
