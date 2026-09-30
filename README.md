@@ -6,16 +6,16 @@ Phone Rex delivers SS7, Stingray, IMSI-catcher, and TEMPEST mitigation at the en
 
 New Features
 
-    Obscured touch filtering
+- Obscured touch filtering
 
 Features
 
-    SS7 extraction resistance
-    Zero call history export controls
-    ADB forensic extraction mitigation
-    No reliance on system UI components or fonts
-    Hardened call screen with unconditional FLAG_SECURE
-    CPU-only rendering for GPU side-channel defense
-    Native tapjacking/overlay protection
-    Disable proximity sensor during calls
-    Systen-CA only trust anchors
+- SS7 extraction resistance
+- Zero call history export controls
+- ADB forensic extraction mitigation
+- No reliance on system UI components or fonts
+- Hardened call screen with unconditional FLAG_SECURE
+- CPU-only rendering for GPU side-channel defense
+- Native tapjacking/overlay protection
+- Disable proximity sensor during calls
+- Systen-CA only trust anchors
